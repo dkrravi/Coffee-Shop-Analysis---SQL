@@ -1,0 +1,16 @@
+What is the total number of transactions?
+How many distinct transaction dates are there?
+What are the distinct store locations?
+What is the total quantity of products sold?
+What are the distinct product categories?
+What are the distinct product types?
+What is the monthly-wise number of orders?
+How many orders were placed for Coffee vs. Tea?
+What is the monthly-wise total revenue?
+Which is the most expensive product?
+Which is the least expensive product?
+What is the total revenue and number of orders per store location?
+Which product has the highest quantity sold?
+Which product has the lowest quantity sold?
+Which product generated the highest sales in Lower Manhattan?
+How many Tea orders did “Hell's Kitchen” handle in February 2023?
