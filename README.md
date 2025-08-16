@@ -1,3 +1,5 @@
+![Coffee Shop Banner](image.png)
+
 # Coffee Shop Sales Analysis – SQL Project
 
 This project analyzes the sales data of a coffee shop using SQL queries to answer key business questions.
